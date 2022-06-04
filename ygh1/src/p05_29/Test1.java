@@ -40,6 +40,8 @@ public class Test1 {
 		e = (char)'a';
 		System.out.println(e);
 		
+		System.out.println("Hello world!! git도 안녕!!");
+		
 	}
 
 }
